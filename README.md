@@ -1,2 +1,3 @@
-# Arbol_navidad
-Web server ESP32
+# Arbol navidad
+Web server en ESP32 para controlar la iluminación.
+
