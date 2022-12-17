@@ -1,7 +1,7 @@
 # Arbol navidad
 Web server en ESP32 para controlar la iluminación.
-
-* Exterior: https://www.thingiverse.com/thing:5647924 by **_Steve**  (https://www.thingiverse.com/_steve/designs)
+**Escalar la parte exterior hasta los 25cm de altura**
+* Exterior: https://www.thingiverse.com/thing:5647924 by **_Steve** (https://www.thingiverse.com/_steve/designs)
 * Soporte: https://www.thingiverse.com/thing:5720906
 * ESP32
 * Leds
